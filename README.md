@@ -13,5 +13,5 @@ Pueden hacer lo que quieran...
 #### H4
 ##### H5
 
-Un gran poder requiere de _una_ gran *responsabilidad*
+Un **gran poder** requiere de _una_ gran *responsabilidad*
 
